@@ -1,0 +1,42 @@
+// START_SCREEN
+BITMAP,1,welcome.png
+BITMAP,2,control.png
+
+// END_SCREEN
+BITMAP,end_hit,end1.png
+BITMAP,end_fuel,end2.png
+
+// POWER_UPS 
+BITMAP,shield,shield.png
+BITMAP,star,star.png
+BITMAP,fuel,fuel.png
+
+// ALLIES
+BITMAP,ally_1,ally_1.png
+BITMAP,ally_2,ally_2.png
+BITMAP,ally_3,ally_3.png
+BITMAP,ally_4,ally_4.png
+
+// other_BITMAP
+BITMAP,hud,hud_bg.png
+BITMAP,force_field,force_field.png
+BITMAP,force,force.png
+BITMAP,player,hero.png
+BITMAP,foe,foe.png
+BITMAP,empty,empty.png
+BITMAP,full,full.png
+
+// sounds
+SOUND,thanks1,gracias.wav
+SOUND,thanks2,dhanyavaad.wav
+SOUND,thanks3,arigato.wav
+SOUND,hit,hit.mp3
+SOUND,star,star.wav
+SOUND,fuel,fuel_up.wav
+SOUND,shield_hit,shield_hit.mp3
+SOUND,activated,activated.wav
+
+// music_&_font
+MUSIC,bg,bg_music.wav
+FONT,font,worldofwater.ttf
+FONT,game_font,game_font.ttf
